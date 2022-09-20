@@ -1,0 +1,8 @@
+C:\Users\илья\source\repos\TumakovLabs1\TumakovLabs1\bin\Debug\TumakovLabs1.exe.config
+C:\Users\илья\source\repos\TumakovLabs1\TumakovLabs1\bin\Debug\TumakovLabs1.exe
+C:\Users\илья\source\repos\TumakovLabs1\TumakovLabs1\bin\Debug\TumakovLabs1.pdb
+C:\Users\илья\source\repos\TumakovLabs1\TumakovLabs1\obj\Debug\TumakovLabs1.csproj.AssemblyReference.cache
+C:\Users\илья\source\repos\TumakovLabs1\TumakovLabs1\obj\Debug\TumakovLabs1.csproj.SuggestedBindingRedirects.cache
+C:\Users\илья\source\repos\TumakovLabs1\TumakovLabs1\obj\Debug\TumakovLabs1.csproj.CoreCompileInputs.cache
+C:\Users\илья\source\repos\TumakovLabs1\TumakovLabs1\obj\Debug\TumakovLabs1.exe
+C:\Users\илья\source\repos\TumakovLabs1\TumakovLabs1\obj\Debug\TumakovLabs1.pdb
